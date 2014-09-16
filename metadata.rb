@@ -7,4 +7,4 @@ version '0.0.2'
 
 depends 'platformstack'
 depends 'rackops_rolebook'
-depends 'pythonstack::application_python'
+depends 'pythonstack'
